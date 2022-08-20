@@ -26,7 +26,7 @@ cls
 	
 if %usropc% equ 1 (
 	call \cpultima\bacth\cadastrarPC.bat
-	goto :menu
+	goto :menu 
 )
 ::	if %usropc% equ 2 
 if %usropc% equ 3 (
