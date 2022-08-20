@@ -11,7 +11,7 @@ cd \xampp\mysql\bin
 mysql -u root < \cpultima\sql\buscarPC.sql
 echo.
 
-pause > nul
+pause
 
 
 

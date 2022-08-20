@@ -48,4 +48,5 @@ if %opcao% == s (
 
 :fim
 
-pause > nul
+echo.
+pause
